@@ -6,11 +6,11 @@
 
 1. Clone o projeto com o link:
 
- ![clonar](midias/clonar-repositorio.png)
+![clonar](/public/midias/clonar-repositorio.png)
 
 2. Certifique-se de estar no diretório do projeto:
 
- ![mudar-pasta](midias/mudar-pasta.png)
+![mudar-pasta](/public/midias/mudar-pasta.png)
 
 ## Sobre o projeto
 
@@ -36,6 +36,7 @@ Todas as novas features que introduzi no site aprendi na Formação Front- End d
 ](https://instagram.com/designtechti.dev)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://linkedin.com/in/designtechtidev)&nbsp;
+
 ## Tecnologias utilizadas
 
 ![HTML](https://img.shields.io/badge/-HTML-121011?style=for-the-badge&logo=html5)&nbsp;
