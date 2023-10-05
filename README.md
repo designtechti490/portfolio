@@ -27,7 +27,7 @@ Todas as novas features que introduzi no site aprendi na Formação Front- End d
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ](https://wa.me/message/VY2FEKEHXRIGC1)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)
-](https://wa.me/message/VY2FEKEHXRIGC1)&nbsp;
+](https://x.com/designtechtidev)&nbsp;
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=PROTONMAIL&logoColor=white)
 ](mailto:designtechti.dev@protonmail.com)&nbsp;
 [![Site](https://img.shields.io/badge/website-000?style=for-the-badge&logo=About.me&logoColor=white)
@@ -39,9 +39,8 @@ Todas as novas features que introduzi no site aprendi na Formação Front- End d
 
 ## Tecnologias utilizadas
 
-![HTML](https://img.shields.io/badge/-HTML-121011?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-121011?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![CSS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/-HTML-121011?style=for-the-badge&logo=html5)&nbsp;
+![SCSS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-121011?style=for-the-badge&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-121011?style=for-the-badge&logo=bootstrap)&nbsp;
 ![GIT](https://img.shields.io/badge/-GIT-121011?style=for-the-badge&logo=git)&nbsp;
